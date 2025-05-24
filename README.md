@@ -4,5 +4,5 @@
 
 ### List of Topics: 
 - Clustering
-- Limma for DG
+- Limma for DGE
 - DGE using EdgeR + voom

@@ -1,3 +1,8 @@
 # Teaching_Materials
 
-### Materials for Teaching basic Bioinformatics Analysis
+### Scripts for teaching basic Bioinformatics Analysis
+
+### List of Topics: 
+- Clustering
+- Limma for DG
+- DGE using EdgeR + voom
